@@ -2,7 +2,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1> ShapeAI </h1>
+      <h1> SACHIN NAIK (Javascript & React.js) </h1>
     </header>
   );
 }
